@@ -1,0 +1,6 @@
+{
+    "emulator.emulatorPathWindows": "C:\\Android\\sdk\\emulator",
+    "avdmanager.sdkPath": "C:\\Android\\sdk",
+    "avdmanager.emulator": "C:\\Android\\sdk\\emulator",
+    "avdmanager.avdHome": "C:\\Android\\sdk"
+}
